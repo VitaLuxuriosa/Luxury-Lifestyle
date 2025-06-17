@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vitaluxuriosa | Exclusive Luxury Concert Experiences</title>
+  <style>
+    body { font-family: 'Georgia', serif; margin: 0; background-color: #0B0C10; color: #E5E5E5; }
+    header { background-color: #0B0C10; padding: 1.5rem; text-align: center; border-bottom: 2px solid #FFD700; }
+    header h1 { color: #FFD700; font-size: 2.8rem; letter-spacing: 2px; }
+    nav { background-color: #10131A; text-align: center; padding: 0.7rem; }
+    nav a { color: #FFD700; margin: 0 1.5rem; text-decoration: none; font-weight: bold; font-size: 1.1rem; }
+    .hero { background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('concert-vip.jpg') center/cover no-repeat; padding: 8rem 2rem; text-align: center; color: #fff; }
+    .hero h2 { font-size: 3rem; margin-bottom: 1rem; }
+    .hero p { font-size: 1.3rem; margin-bottom: 2rem; }
+    .section { padding: 4rem 1rem; text-align: center; }
+    .section h3 { color: #FFD700; margin-bottom: 2rem; font-size: 2rem; }
+    .card { background-color: #1A1D23; margin: 1.5rem auto; padding: 2rem; border-radius: 12px; width: 85%; max-width: 700px; box-shadow: 0 0 20px rgba(255,215,0,0.2); }
+    footer { background-color: #0B0C10; color: #888; text-align: center; padding: 1.2rem; border-top: 1px solid #FFD700; font-size: 0.9rem; }
+    .btn { background-color: #FFD700; color: #0B0C10; padding: 0.8rem 2rem; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 1.1rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Vitaluxuriosa</h1>
+    <p>Exclusive Luxury Concert Experiences</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#packages">Packages</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section class="hero">
+    <h2>Where Elegance Meets Entertainment</h2>
+    <p>Premium second-row seats. Unmatched luxury. VIP access at every show.</p>
+    <a class="btn" href="#contact">Reserve Your Experience</a>
+  </section>
+
+  <section class="section" id="about">
+    <h3>About Vitaluxuriosa</h3>
+    <div class="card">
+      <p>Immerse yourself in an elevated concert experience. Featuring 2nd-row premium seating at 64 elite events per year, enjoy the finest perks in entertainment: complimentary parking, exclusive VIP lounges, priority private entry, 2 complimentary drinks per event, and post-show relaxation privileges. Luxury defined.</p>
+    </div>
+  </section>
+
+  <section class="section" id="packages">
+    <h3>Luxury Packages</h3>
+    <div class="card">
+      <h4>Corporate Prestige VIP</h4>
+      <p>64 Events | Second-Row Seats | All VIP Perks</p>
+      <p><strong>Investment: $30,000/year</strong></p>
+    </div>
+
+    <div class="card">
+      <h4>Half Season Elite</h4>
+      <p>32 Events | Second-Row Seats | All VIP Perks</p>
+      <p><strong>Investment: $16,000</strong></p>
+    </div>
+
+    <div class="card">
+      <h4>Custom Corporate Bundle</h4>
+      <p>Tailor your experience. Choose your preferred number of events. Volume discounts available.</p>
+      <p><strong>Contact us for personalized pricing.</strong></p>
+    </div>
+  </section>
+
+  <section class="section" id="contact">
+    <h3>Contact Vitaluxuriosa</h3>
+    <div class="card">
+      <p>Email: <a href="mailto:sales@vitaluxuriosa.com" style="color:#FFD700;">sales@vitaluxuriosa.com</a></p>
+      <p>Phone: (XXX) XXX-XXXX</p>
+      <a class="btn" href="mailto:sales@vitaluxuriosa.com">Reserve Now</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Vitaluxuriosa. All rights reserved.</p>
+  </footer>
+</body>
+</html>
